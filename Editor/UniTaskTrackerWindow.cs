@@ -17,7 +17,7 @@ namespace Cysharp.Threading.Tasks.Editor
 
         static UniTaskTrackerWindow window;
 
-        [MenuItem("Window/UniTask Tracker")]
+        [MenuItem("Sparrow/UniTask Tracker")]
         public static void OpenWindow()
         {
             if (window != null)
